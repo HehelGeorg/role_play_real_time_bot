@@ -1,2 +1,2 @@
 # role_play_real_time_bot
-Проблема:  
+Проблема: в том
